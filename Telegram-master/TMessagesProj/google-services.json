@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "617326915283",
+    "project_id": "firebase-messageyou"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617326915283:android:dc022572c167a16c",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjW7adfMBY1DSvtHiG_7w6gzOo-R6HX04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
